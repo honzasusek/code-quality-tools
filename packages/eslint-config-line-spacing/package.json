@@ -1,0 +1,11 @@
+{
+  "name": "@honzasusek/eslint-config-line-spacing",
+  "version": "1.0.0",
+  "description": "ESlint line-spacing rules",
+  "main": "index.js",
+  "author": "honza@susek.cz",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^4.0.0-beta.0"
+  }
+}
