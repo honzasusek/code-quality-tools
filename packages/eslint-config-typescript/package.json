@@ -1,6 +1,6 @@
 {
   "name": "@honzasusek/eslint-config-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESlint typescript config and plugins",
   "main": "index.js",
   "author": "honza@susek.cz",
