@@ -6,6 +6,7 @@
   "author": "honza@susek.cz",
   "license": "ISC",
   "dependencies": {
+    "@honzasusek/eslint-config-ts": "^1.0.4",
     "@strv/eslint-config-react": "^4.0.0",
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11"

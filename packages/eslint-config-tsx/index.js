@@ -1,20 +1,13 @@
 module.exports = {
-  plugins: ["@typescript-eslint", "prettier", "unused-imports"],
-  extends: ["@strv/typescript", "@strv/typescript/style", "prettier"],
+  extends: ["@honzasusek/eslint-config-ts"],
   rules: {
-    "import/order": ["error", { "newlines-between": "never" }],
-    "prettier/prettier": "error",
-    "import/no-default-export": 0,
-    "consistent-return": "off",
-    "unused-imports/no-unused-imports": "error",
-    "unused-imports/no-unused-vars": [
+    "@typescript-eslint/naming-convention": [
       "warn",
       {
-        vars: "all",
-        varsIgnorePattern: "^_",
-        args: "after-used",
-        argsIgnorePattern: "^_",
+        selector: "function",
+        format: ["PascalCase", "camelCase"],
       },
-    ],
+    ], // functional components need PascalCase
+    "react-hooks/exhaustive-deps": 0,
   },
 };
