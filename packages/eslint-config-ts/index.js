@@ -1,6 +1,11 @@
 module.exports = {
   plugins: ["@typescript-eslint", "prettier", "unused-imports"],
-  extends: ["@strv/typescript", "@strv/typescript/style", "prettier"],
+  extends: [
+    "@strv/typescript",
+    "@strv/typescript/style",
+    "@honzasusek/eslint-config-line-spacing",
+    "prettier",
+  ],
   rules: {
     "import/order": ["error", { "newlines-between": "never" }],
     "prettier/prettier": "error",
