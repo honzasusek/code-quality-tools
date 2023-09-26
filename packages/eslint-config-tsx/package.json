@@ -1,12 +1,12 @@
 {
   "name": "@honzasusek/eslint-config-tsx",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ESlint react-on-typescript config",
   "main": "index.js",
   "author": "honza@susek.cz",
   "license": "ISC",
   "dependencies": {
-    "@honzasusek/eslint-config-ts": "^1.0.6",
+    "@honzasusek/eslint-config-ts": "^1.0.7",
     "@strv/eslint-config-react": "^4.0.0",
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11"
