@@ -13,7 +13,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-unused-imports": "^2.0.0",
     "prettier": ">2.4.1",
-    "prettier-tslint": "^0.4.2"
+    "prettier-tslint": ">0.4.2"
   },
   "peerDependencies": {
     "eslint": ">4.0.0-beta.0"
