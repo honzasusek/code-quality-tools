@@ -1,6 +1,6 @@
 {
   "name": "@honzasusek/eslint-config-ts",
-  "version": "1.0.12",
+  "version": "2.0.0",
   "description": "ESlint typescript config and plugins",
   "main": "index.js",
   "author": "honza@susek.cz",
@@ -11,12 +11,12 @@
     "@eslint/js": "^9.7.0",
     "@honzasusek/eslint-config-line-spacing": "^2.0.0",
     "@strv/eslint-config-typescript": "^5.0.0",
-    "typescript-eslint": "^7.16.1",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-unused-imports": "^3.0.0",
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.0",
+    "typescript-eslint": "^7.16.1"
   },
   "peerDependencies": {
     "eslint": "^8"
