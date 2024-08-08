@@ -2,7 +2,7 @@
   "name": "@honzasusek/eslint-config-ts",
   "version": "2.0.0",
   "description": "ESlint typescript config and plugins",
-  "main": "index.js",
+  "main": "index.mjs",
   "author": "honza@susek.cz",
   "license": "ISC",
   "dependencies": {
