@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   rules: {
     "padding-line-between-statements": [
       "error",

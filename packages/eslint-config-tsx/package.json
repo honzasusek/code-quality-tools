@@ -6,12 +6,10 @@
   "author": "honza@susek.cz",
   "license": "ISC",
   "dependencies": {
-    "@honzasusek/eslint-config-ts": "^1.0.12",
-    "@strv/eslint-config-react": "^4.0.0",
-    "@types/react": "^17.0.34",
-    "@types/react-dom": "^17.0.11"
+    "@honzasusek/eslint-config-ts": "^2.0.0",
+    "@strv/eslint-config-react": "^5.0.0"
   },
   "peerDependencies": {
-    "eslint": ">4.0.0-beta.0"
+    "eslint": "^8"
   }
 }
