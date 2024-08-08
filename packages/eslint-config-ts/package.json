@@ -1,6 +1,6 @@
 {
   "name": "@honzasusek/eslint-config-ts",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ESlint typescript config and plugins",
   "main": "index.mjs",
   "author": "honza@susek.cz",
@@ -9,7 +9,7 @@
     "@eslint/compat": "^1.1.1",
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "^9.7.0",
-    "@honzasusek/eslint-config-line-spacing": "^2.0.0",
+    "@honzasusek/eslint-config-line-spacing": "^2.0.1",
     "@strv/eslint-config-typescript": "^5.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
