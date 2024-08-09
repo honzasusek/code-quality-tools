@@ -7,6 +7,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import js from '@eslint/js'
 import { FlatCompat } from '@eslint/eslintrc'
+import unusedImports from 'eslint-plugin-unused-imports'
 
 import lineSpacing from '@honzasusek/eslint-config-line-spacing'
 import strvTypescript from '@strv/eslint-config-typescript'
