@@ -1,6 +1,6 @@
 {
   "name": "@honzasusek/stylelint-config-styled-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylelint config for styled components",
   "main": "index.cjs",
   "author": "honza@susek.cz",
