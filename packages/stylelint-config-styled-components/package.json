@@ -11,7 +11,6 @@
     "stylelint-config-styled-components": "0.1.1"
   },
   "peerDependencies": {
-    "eslint": "^8",
     "stylelint": "16.9.0"
   }
 }
