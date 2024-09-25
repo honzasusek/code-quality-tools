@@ -6,6 +6,7 @@
   "author": "honza@susek.cz",
   "license": "ISC",
   "dependencies": {
+    "postcss": "8.4.47",
     "postcss-styled-syntax": "0.3.1",
     "stylelint-config-standard-scss": "13.1.0",
     "stylelint-config-styled-components": "0.1.1"
