@@ -14,7 +14,7 @@ module.exports = {
   overrides: [
     {
       files: ['**/*.ts', '**/*.tsx'],
-      customSyntax: 'postcss-styled-syntax',
+      customSyntax: require('postcss-styled-syntax'),
     },
   ],
 }
